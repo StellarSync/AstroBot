@@ -1,7 +1,7 @@
 # 👋 Welcome!
 
 {% hint style="info" %}
-**About this template:** An Internal Wiki to lay out everything anyone needs to know about the company, help others get to know your team, product or company better..
+**About: This documentation will provide any and every information to be distributed to the outer world about the sub-society/community AstroBot**
 {% endhint %}
 
 For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
