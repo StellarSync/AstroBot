@@ -1,12 +1,29 @@
-# 👋 Welcome!
+---
+description: >-
+  This page provides the overview to the documentation of the sub society
+  AstroBot.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 🚀 Welcome!
 
 {% hint style="info" %}
-**About: This documentation will provide any and every information to be distributed to the outer world about the sub-society/community AstroBot**
+**About: This documentation will provide any and every information to be distributed to the outer world about the sub-society/community AstroBot.**
 {% endhint %}
 
-For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
+{% hint style="success" %}
 
-For **long-time team members**, this space will act as a reminder and allow you to find answers about admin and policies etc.
+{% endhint %}
 
 <details>
 
@@ -15,6 +32,8 @@ For **long-time team members**, this space will act as a reminder and allow you 
 This space is designed to be read linearly, so start with our Vision, Mission & Focus and work down from there! We recommend reading everything through in one sitting and then revisiting and re-reading if you need to.
 
 </details>
+
+
 
 <details>
 
